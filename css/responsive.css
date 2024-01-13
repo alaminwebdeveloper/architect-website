@@ -22,6 +22,23 @@
         margin: 5px 0;
 
     }
+    main{
+        margin: 40px 20px 60px 20px;
+    }
+
+    .team-container{
+        flex-direction: column-reverse;
+    }
+    .team-img{
+        width: 100%;
+        grid-template-columns: 1fr;
+    }
+    .team-content{
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        margin-bottom: 60px;
+    }
 }
 
 /* Teblet or Medium Devices */
@@ -33,5 +50,16 @@
 
     nav ul li{
         margin-left: 25px;
+    }
+
+    main{
+        margin: 40px 40px 60px 40px;
+    }
+    .team-content{
+        padding-left: 25px;
+    }
+    .team-content p{
+        margin-bottom: 10px;
+        margin-top: 0;
     }
 }
