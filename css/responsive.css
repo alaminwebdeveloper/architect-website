@@ -50,6 +50,15 @@
     .features-content, .features-img{
         width: 100%;
     }
+    .info-content{
+        margin-bottom: 25px;
+    }
+
+    .facts-content{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
     
 }
 
@@ -85,5 +94,13 @@
     .features-content, .features-img{
         width: 100%;
     }
-    
+
+    .facts-content{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    .info-content{
+        margin-bottom: 25px;
+    }
+
 }
