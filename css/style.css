@@ -203,6 +203,7 @@ main{
 
 /* Start Facts Section Style */
 
+
 .facts-content{
     width: 52%;
     margin-bottom: 60px;
@@ -236,6 +237,7 @@ main{
     color:#424242;
     font-size: 2.81rem;
     font-weight: 600;
+    padding: 5px 0;
 }
 .info-content span{
     color: #727272;
@@ -248,7 +250,52 @@ main{
 }
 
 
+/* Start Sponspor Section Style */
 
+#sponspor{
+    margin-top: 100px;
+}
+.sponspor-content{
+    text-align: center;
+    padding: 0 230px;
+}
+.sponspor-content h2{
+    color: #131313;
+    font-size: 45px;
+    font-weight: 700;
+}
+.sponspor-content p{
+    color: #727272;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; 
+    margin-top: 20px;
+}
+.sponspor-logo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    align-items: center;
+    margin-top: 50px;
+}
 
+/* Start Footer Section Style */
 
+#footer{
+    margin: 100px 0;
+}
+.footer-area{
+    background-color: #FFF4E7;
+    padding: 35px 0;
+    text-align: center;
+    border-radius: 8px;
+    margin: 0 240px;
+}
+.footer-area small{
+    color: #424242;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+ /* End Footer Section Style*/
 

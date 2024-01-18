@@ -59,7 +59,27 @@
         margin-bottom: 40px;
     }
 
-    
+    /* Start Sponspor Section Style */
+
+    #sponspor{
+        margin-top: 60px;
+    }
+    .sponspor-content{
+        padding: 0;
+    }
+
+    .sponspor-logo{
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 50px;
+    }
+    #footer{
+        margin: 60px 0;
+    }
+    .footer-area{
+        margin: 0 30px;
+        padding: 35px 10px;
+    }
 }
 
 /* Teblet or Medium Devices */
@@ -103,4 +123,28 @@
         margin-bottom: 25px;
     }
 
+      /* Start Sponspor Section Style */
+
+      #sponspor{
+        margin-top: 60px;
+    }
+    .sponspor-content{
+        padding: 0;
+    }
+
+    .sponspor-logo{
+        flex-direction: column;
+        gap: 30px;
+        margin-top: 50px;
+    }
+   
+    #footer{
+        margin: 60px 0;
+    }
+    .footer-area{
+        margin: 80px 30px;
+        padding: 35px 10px;
+    }
 }
+
+ /* End Footer Section Style*/
